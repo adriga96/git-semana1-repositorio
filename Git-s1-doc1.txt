@@ -1,1 +1,3 @@
-Texto para primer archivo
+Texto ejemplo para el primer archivo.
+
+Nuevo cambio en archivo 1.
